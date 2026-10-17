@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or the vignette battery, please cite it as below."
+title: "Simples Arranged Promptwise: Probing Quantifier Variance in Large Language Models"
+authors:
+  - family-names: Johnson
+    given-names: Steve
+    email: steven.f.johnson-1@ou.edu
+    affiliation: University of Oklahoma
+license: Apache-2.0
+date-released: 2026-10-17
+keywords:
+  - quantifier variance
+  - metaontology
+  - large language models
+  - interpretability
+  - experimental philosophy

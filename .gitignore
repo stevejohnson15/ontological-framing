@@ -1,0 +1,13 @@
+# Third-party papers: keep local, don't redistribute (repo will be released)
+research/**/*.pdf
+
+# Large raw outputs
+results/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+.DS_Store
