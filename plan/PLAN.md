@@ -101,6 +101,9 @@ results: if disjoint ontological training converges behaviorally, the "deep fact
 composition drops out of the language game as the beetle does. No build work; a writing
 project gated on Tier 2 results. Candidate successor to the metaphysics-seminar paper.
 
+**Proposal — System One / dual-process response-mode arm (Jev, Laya):** see
+`SYSTEM-ONE-ANGLE.md`; decide before M2 prereg.
+
 **Repo implication now:** keep `battery/`, `harness/`, and `analysis/` tier-agnostic
 (nothing hardcoded to "the three framings are prompts" — Tier 2 swaps prompts for model
 variants), so the Tier 1 instrument reuses cleanly.
